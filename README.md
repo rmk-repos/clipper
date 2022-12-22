@@ -4,7 +4,11 @@ This is a free addon for Blender which can be used for doing vatious operations 
 
 
 
-https://user-images.githubusercontent.com/83325628/209120750-7d5cddab-56c1-4816-80de-4769f21ccb92.mp4
+
+
+https://user-images.githubusercontent.com/83325628/209121232-215cd57b-2738-4fe7-942b-7a66f93a4761.mp4
+
+
 
 
 
