@@ -16,3 +16,6 @@ This is a free addon for Blender which can be used for doing vatious operations 
 
 Known issue:
 1. This does not work in Quad View
+
+Pending:
+1. Optimization/refactoring to be done on the code
