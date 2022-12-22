@@ -6,7 +6,8 @@ This is a free addon for Blender which can be used for doing vatious operations 
 
 
 
-https://user-images.githubusercontent.com/83325628/209121232-215cd57b-2738-4fe7-942b-7a66f93a4761.mp4
+![clipper-demo](https://user-images.githubusercontent.com/83325628/209121671-b2621fb8-942a-4638-a06f-915eb0a4882d.gif)
+
 
 
 
